@@ -3,9 +3,9 @@
 **Organization:** Independent Real Estate Brokerage (Name Redacted)  
 **Location:** Victorville, CA  
 **Employees:** 4  
-**Author:** Gregory Sewalt
 **Assessment Type:** Qualitative Risk Assessment  
 **Framework References:** NIST SP 800-30, NIST SP 800-37 (RMF), NIST CSF 2.0  
+**Author:** Gregory Sewalt
 
 ---
 
