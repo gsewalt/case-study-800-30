@@ -1,6 +1,6 @@
-# Cybersecurity Risk Assessment – Small Real Estate Brokerage Case Study
+# Qualitative Risk Assessment – Small Real Estate Brokerage Case Study
 
-**Organization:** Independent Real Estate Brokerage (Name Redacted)  
+**Organization:** [Redacted] Real Estate Brokerage
 **Location:** Victorville, CA  
 **Employees:** 4  
 **Assessment Type:** Qualitative Risk Assessment  
